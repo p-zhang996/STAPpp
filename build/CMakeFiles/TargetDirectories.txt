@@ -1,0 +1,3 @@
+D:/MyProject/STAPpp/build/CMakeFiles/stap++.dir
+D:/MyProject/STAPpp/build/CMakeFiles/ALL_BUILD.dir
+D:/MyProject/STAPpp/build/CMakeFiles/ZERO_CHECK.dir

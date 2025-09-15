@@ -1,7 +1,7 @@
-PROJECT(stap++)
-
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 3.5)
 set (CMAKE_CXX_STANDARD 11)
+
+PROJECT(stap++)
 
 OPTION(STAP++_DEBUG "Output detailed results for debugging." OFF)
 IF(STAP++_DEBUG)
